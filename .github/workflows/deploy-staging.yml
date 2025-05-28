@@ -1,7 +1,3 @@
-
-##############
-test 
-#################
 name: Deploy to staging
 
 on:
